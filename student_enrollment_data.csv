@@ -1,0 +1,51 @@
+student_id,program_type,enrollment_status,admission_score,start_date,gpa,credit_load,failed_courses,attendance_rate,age,gender,ethnicity,financial_aid,parental_education_level,employment_hours,distance_to_campus_km,course_completion_rate,core_subject_performance,support_sessions_used
+1,Certificate,graduated,67.9,2020-01-31,3.79,jobless,1,81.6,32,male,Other,Yes,PostGraduate,0,6.7,0.84,2.71,9
+2,Bachelor,active,60.2,2020-04-30,2.64,part-time,1,95.5,20,female,Black,No,High School,12,3.8,0.79,3.79,8
+3,Certificate,graduated,92.6,2020-07-31,2.22,jobless,2,79.5,25,female,Other,Yes,High School,0,47.0,0.77,2.26,4
+4,Certificate,active,88.3,2020-10-31,2.46,jobless,4,75.1,33,female,Hispanic,Yes,Diploma,12,20.8,0.91,2.66,5
+5,Bachelor,graduated,89.2,2021-01-31,2.85,jobless,0,86.7,30,male,Other,No,PostGraduate,12,29.1,0.86,2.64,3
+6,Bachelor,withdrawn,90.9,2021-04-30,3.64,jobless,3,98.1,27,female,White,Yes,High School,0,46.0,0.92,2.18,9
+7,Certificate,withdrawn,63.0,2021-07-31,3.72,full-time,0,90.9,34,female,Asian,Yes,Bachelor,0,4.1,0.96,2.96,1
+8,Diploma,active,74.3,2021-10-31,2.01,full-time,3,87.1,22,female,Other,No,Bachelor,0,43.8,0.85,3.38,7
+9,Certificate,withdrawn,64.6,2022-01-31,3.02,jobless,0,72.9,26,female,Other,Yes,High School,20,27.6,0.99,3.02,5
+10,Certificate,withdrawn,94.5,2022-04-30,2.83,part-time,4,88.5,29,male,Asian,Yes,High School,0,8.2,0.84,2.31,4
+11,Certificate,graduated,84.9,2022-07-31,2.44,full-time,3,99.7,18,female,White,Yes,PostGraduate,12,20.6,0.85,2.75,8
+12,Certificate,active,73.2,2022-10-31,2.24,jobless,2,74.2,18,male,Black,Yes,PostGraduate,0,38.9,0.82,2.01,0
+13,Bachelor,graduated,62.5,2023-01-31,2.68,full-time,0,85.5,32,male,Other,No,Diploma,20,24.0,0.64,3.74,4
+14,Certificate,graduated,72.4,2023-04-30,3.89,full-time,0,96.3,19,male,Asian,No,PostGraduate,0,49.3,0.89,2.17,5
+15,Diploma,graduated,73.0,2023-07-31,2.65,part-time,3,92.2,33,male,Hispanic,Yes,Bachelor,20,18.8,0.82,3.19,4
+16,Bachelor,graduated,89.2,2023-10-31,3.04,jobless,2,90.9,25,male,Asian,No,Bachelor,20,37.5,0.78,3.97,5
+17,Diploma,graduated,85.5,2024-01-31,3.41,jobless,2,91.1,30,male,Hispanic,Yes,High School,0,19.6,0.96,3.07,5
+18,Diploma,graduated,95.5,2024-04-30,2.73,part-time,4,80.8,18,female,White,No,PostGraduate,12,41.5,0.72,3.85,6
+19,Diploma,graduated,78.9,2024-07-31,3.94,part-time,2,78.8,33,male,Black,Yes,Diploma,20,28.5,0.81,2.47,3
+20,Diploma,active,64.8,2024-10-31,3.92,jobless,2,94.3,24,male,Asian,Yes,Bachelor,0,3.2,0.88,3.52,7
+21,Bachelor,withdrawn,88.5,2025-01-31,2.5,jobless,2,94.3,22,male,Other,Yes,Bachelor,0,1.8,0.92,3.06,6
+22,Bachelor,graduated,90.4,2025-04-30,2.99,part-time,1,96.0,20,female,White,Yes,Diploma,12,6.7,0.78,3.44,8
+23,Diploma,graduated,82.5,2025-07-31,2.6,full-time,4,97.4,29,female,Asian,Yes,Diploma,20,0.7,0.94,2.12,6
+24,Diploma,graduated,90.8,2025-10-31,2.57,full-time,0,85.3,33,male,Other,Yes,Bachelor,20,3.8,0.91,2.3,2
+25,Bachelor,graduated,79.8,2026-01-31,2.07,part-time,3,85.0,22,female,Asian,No,Bachelor,0,34.6,0.63,2.27,2
+26,Bachelor,graduated,80.9,2026-04-30,3.22,full-time,0,93.9,31,male,Hispanic,Yes,Diploma,0,26.7,0.62,3.37,7
+27,Bachelor,graduated,77.1,2026-07-31,3.01,part-time,4,89.5,22,male,Asian,No,Bachelor,12,37.5,0.85,3.69,4
+28,Certificate,withdrawn,61.0,2026-10-31,2.1,full-time,3,91.1,32,female,Asian,Yes,High School,12,45.7,0.74,3.5,3
+29,Certificate,withdrawn,64.3,2027-01-31,2.56,full-time,4,93.9,34,male,Asian,No,High School,20,29.3,0.68,2.06,7
+30,Certificate,graduated,61.3,2027-04-30,3.82,jobless,2,96.7,31,female,White,No,Diploma,20,36.3,0.83,3.73,5
+31,Diploma,withdrawn,85.5,2027-07-31,2.48,jobless,3,80.1,22,female,Asian,No,PostGraduate,0,37.9,0.74,2.71,1
+32,Certificate,active,72.6,2027-10-31,2.29,full-time,2,81.3,29,male,Other,Yes,Diploma,20,18.9,0.81,2.79,3
+33,Diploma,graduated,80.3,2028-01-31,2.98,full-time,0,72.8,33,male,Hispanic,Yes,Diploma,12,12.1,0.78,2.21,3
+34,Diploma,active,96.3,2028-04-30,3.97,jobless,0,87.3,33,female,Hispanic,No,PostGraduate,12,10.3,0.83,3.47,5
+35,Certificate,active,70.0,2028-07-31,2.48,jobless,3,71.1,24,male,Asian,Yes,PostGraduate,0,12.6,0.76,2.36,5
+36,Diploma,graduated,76.4,2028-10-31,3.34,jobless,3,84.0,21,male,White,No,PostGraduate,12,13.7,0.88,3.13,0
+37,Certificate,withdrawn,90.2,2029-01-31,3.52,part-time,4,86.3,18,male,White,Yes,High School,12,10.4,0.67,3.68,7
+38,Certificate,active,69.2,2029-04-30,2.48,full-time,4,78.6,22,female,Other,No,Bachelor,12,43.9,0.88,2.18,5
+39,Bachelor,graduated,63.1,2029-07-31,3.46,jobless,2,87.7,27,female,Asian,No,High School,12,37.8,0.76,3.07,2
+40,Certificate,active,71.6,2029-10-31,2.74,full-time,3,70.9,22,male,Hispanic,Yes,Bachelor,0,2.3,0.95,2.47,8
+41,Bachelor,active,66.4,2030-01-31,3.26,part-time,0,71.1,21,female,White,No,High School,0,13.4,0.81,2.69,1
+42,Certificate,active,97.2,2030-04-30,3.27,part-time,4,94.7,19,female,Asian,Yes,Bachelor,20,1.1,0.99,2.95,7
+43,Certificate,active,92.3,2030-07-31,3.07,jobless,4,80.8,27,female,White,No,High School,12,24.9,0.84,2.71,9
+44,Bachelor,withdrawn,85.3,2030-10-31,2.18,part-time,0,73.8,18,female,White,No,PostGraduate,20,23.8,0.69,3.3,2
+45,Bachelor,active,94.9,2031-01-31,3.67,full-time,4,85.7,22,female,Hispanic,Yes,Diploma,0,41.6,0.93,2.96,4
+46,Certificate,active,92.1,2031-04-30,2.64,jobless,2,93.1,30,male,Black,Yes,High School,0,15.4,0.74,3.17,5
+47,Diploma,active,67.5,2031-07-31,2.37,full-time,3,76.5,21,male,Other,Yes,Bachelor,0,40.8,0.74,3.47,9
+48,Bachelor,withdrawn,95.7,2031-10-31,2.08,full-time,0,88.7,33,male,Other,No,PostGraduate,0,48.4,0.61,3.12,5
+49,Diploma,active,81.6,2032-01-31,3.18,part-time,3,72.6,33,female,Hispanic,Yes,High School,0,4.4,0.82,3.17,3
+50,Diploma,active,92.3,2032-04-30,3.36,part-time,4,71.6,19,female,White,No,High School,0,39.6,0.81,3.13,2
